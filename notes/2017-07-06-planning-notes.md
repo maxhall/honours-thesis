@@ -20,4 +20,4 @@ Neomaterialism & new materialism content
 - Was raised in the context of the MaqU forgiveness workshop
 - Roughly: Inspire remorse through blame in order to achieve aligned values
 - Relevant then: Who has standing to blame in Fricker's communicative blame? If it's a normative thing, affects who is justified in doing what
-- Matilda suggested: pedagogy of discomfit, social justice education 
+- suggested: pedagogy of discomfit, social justice education 

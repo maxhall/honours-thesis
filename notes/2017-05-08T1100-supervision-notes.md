@@ -1,4 +1,4 @@
-﻿# Summary email sent to the group prior to submission
+﻿### Summary email sent to the group prior to submission
 
 Hi all,
 
