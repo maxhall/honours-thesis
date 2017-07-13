@@ -18,6 +18,7 @@
 * Thought crime
 * Libertarian paternalism
 * Paternalism in general
+* Propaganda
 
 ## Old SEP list
 - Civic education

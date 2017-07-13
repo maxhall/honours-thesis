@@ -8,5 +8,12 @@
 - Going over planning stuff and rewriting the reading list
 - Did a bit of metaethics reading to get my head straight the bearing that cognitivist/non-cognitivist and moral realist/anti-realist positions have on the topic
 - Worked on referencing system. Probably going to go with individual .bib files for each reference. Will compile everything into word and pdf using pandoc
-- Read XX
 - Wrote up notes for supervision meeting
+
+## 07-10
+- Reading/writing up notes for supervision
+- Supervision: set week dealine for refining direct; chapter outlines by end of the break
+
+## 07-13
+- Wrote up notes from supervision meeting
+
