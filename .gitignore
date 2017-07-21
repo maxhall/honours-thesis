@@ -1,2 +1,6 @@
 *.swp
+*.pdf
+compiled-references.bib
 files
+collatedbibs.bib
+output.pdf
