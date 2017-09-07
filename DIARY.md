@@ -19,3 +19,8 @@
 
 ## 07-21
 - Tested and committed build proccess
+
+## 08-25
+- Conference preparation in the week prior
+- Did presentation
+
