@@ -1,6 +1,6 @@
 *.swp
 *.pdf
+*.docx
 compiled-references.bib
 files
 collatedbibs.bib
-output.pdf

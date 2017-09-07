@@ -17,3 +17,5 @@
 ## 07-13
 - Wrote up notes from supervision meeting
 
+## 07-21
+- Tested and committed build proccess

@@ -1,4 +1,6 @@
-# Reading list
+% Reading list
+% Max Hall
+% 2017
 
 ## Practices
 * Brainwashing
@@ -37,3 +39,4 @@
 * Moral confidence
 * Relational autonomy/respect, Uma Nareyan. K suggestion
 
+* Cass Sunstein on nudging – from Lily Zhu
