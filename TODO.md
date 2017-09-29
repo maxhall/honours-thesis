@@ -1,7 +1,11 @@
 # TODO
 
-* Write outline properly startying with sections and questions that need to be asked
-	* Should be a map of options w/ a reading direction indiciated to guide decisions
-* Type notes from Supervision meeting into the outline
+* Finish typing handwritten notes into outline
+* Then do the same for supervision feedback and notes from conversations with people
+* Split outline into a single doc for each chapter
+* Go through gKeep notes and incorporate those into the outlines
+* Review outline to make sure the reading direction and reference needs are indicated for each section
+
+* Sort through open research links, download the good ones
 * Sort PDFs
 * Flesh out referencing system
