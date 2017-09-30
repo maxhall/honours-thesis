@@ -58,3 +58,7 @@ Readings in propaganda and persuasion : new and classic essays / [edited by] Gar
 Persuasion; how opinions and attitudes are changed [by] Marvin Karlins [and] Herbert I. Abelson.a
 
 153.852 1
+
+
+Conscience and its right to freedom by D'Arcy, Eric
+Stagbooks, 1961 - Available, Fisher, 171.6 9
