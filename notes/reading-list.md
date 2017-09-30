@@ -21,6 +21,9 @@
 * Libertarian paternalism
 * Paternalism in general
 * Propaganda
+* Court-ordered education programs
+* Deprogramming (voluntary and family-forced)
+* Nudging and other behavioural psych techniques
 
 ## Old SEP list
 - Civic education
