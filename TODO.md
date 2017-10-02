@@ -2,8 +2,8 @@
 
 # Chapter 2 
 
-* Sort through outline
 * Belief readings
+* Label and sort newly downloaded PDFs
 * Write the thing on the train, square bracketing questions
 
 # Chapter 3 

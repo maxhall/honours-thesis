@@ -59,6 +59,16 @@ Persuasion; how opinions and attitudes are changed [by] Marvin Karlins [and] Her
 
 153.852 1
 
+* Responsible Belief: A Theory in Ethics and Epistemology By Rik Peels
+  * Has notes on how beliefs are influenced
+
+* The Ethics of Belief edited by Jonathan Matheson, Rico Vitz
+  * Hume was worried about the influence of the doxastic community
+  * "The irresistable contagion of opinion" pg211 of the book; NHR15.13
 
 Conscience and its right to freedom by D'Arcy, Eric
 Stagbooks, 1961 - Available, Fisher, 171.6 9
+
+## Intuitionism vs Rationalism
+
+The debate between Intuitionist and rationalist accounts of moral judgement formation is best followed in the exchange between Haidt, and Greene (Paxton is his PHD student)
