@@ -48,3 +48,15 @@
 
 ## 09-29
 * Alive, back at it. Really did not need to three day interlude, but such is life
+* Continued fleshing out outline, split the big one into chapters and allocated words.
+
+## 09-30
+* Decent progress on the scaffolds
+* Reread a bunch of papers, found a few new ones and sorted all of the above into the chapters the will assist
+
+## 10-01
+* Someone pls put me out of my misery
+* Pencil-pushed for two hours and had a series of naps
+
+## 10-02
+* Deleted a bunch of apps from my phone, logged the hell out of fb and twitter

@@ -1,22 +1,17 @@
 # TODO
 
-# Deck clearing day!!
+# Chapter 2 
 
-* Flesh out referencing system by doing a couple of bibtex references in the test thesis.md and generating the pdf to check
-* Review outline to make sure the reading direction and reference needs are indicated for each section
-* Find a home for the objection that the lack of certainty about being able to successfully influence beleif (and even the lack of certainty that we won't do harm to that persons character in the process) is a good reason to avoid challenging belief. This might be a "argument for minimising influence from epistemic uncertainty"
+* Sort through outline
+* Belief readings
+* Write the thing on the train, square bracketing questions
 
-* Type in notes from notepad
+# Chapter 3 
 
-# Chapter 2 day!!
+# Chapter 4
 
-# Chapter 3 day!!
+# Chapter 5
 
-# Chapter 4 day!!
-
-# Chapter 5 day 1!!
-
-# Chapter 5 day 2!!
 
 # Possible titles
 * Responsible doxastic evangelism
