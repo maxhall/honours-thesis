@@ -10,8 +10,6 @@
 	* Get some references for the conceptions of autonomy.
 
 * Chapter 4 - 2000w
-	* Check for sources
-	* Write
 
 * Chapter 5 - 3000w
 

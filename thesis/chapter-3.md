@@ -1,4 +1,5 @@
-% Chapter 3 - Should we avoid influencing beliefs?
+% Chapter 3
+% Should we avoid influencing beliefs?
 
 This chapter will look closely at the precise claim people might be making when they say “I have a right to my beliefs”.
 
@@ -131,7 +132,3 @@ I revisit this analysis of the inescapable reality of the doxastic influence we 
 One might respond that it is theoretically possible to remove oneself from any doxastic community and, by living as a hermit isolated from all social life, avoid the kind of belief influence that they consider impermissible. I doubt whether this is a practical option for anyone (and wish them the very best of luck in the wilderness), but allow that this is a possible radical (albeit probably unnecessary) response to the problem of social belief influence.
 
 I want to suggest that an advocate of drastically minimising doxastic influence will instead be interested in ensuring that what doxastic influence they cannot avoiding having on others in the course of their everyday lives is regulated by some principles of doxastic responsibility. I will consider such principles for the minimally influential doxastic life in chapter five.
-
-### References
-
-To fold into the end:
