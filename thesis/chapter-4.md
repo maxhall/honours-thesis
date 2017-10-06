@@ -1,9 +1,9 @@
-% Chapter 4
-% Positive reasons to influence belief
+# Chapter 4
+## Positive reasons to influence belief
 
 The preceding chapter raised several reasons to exercise caution in the course of deploying belief-influence strategies. You would be forgiven at this stage for being slightly sceptical as to whether the benefits of actively exercising belief influence outweigh these reasons. Perhaps belief-influence is just so ethically fraught that we should search for and adopt a regime of belief-influencing practices that minimise to the greatest extent possible the influence we have on other’s morally significant beliefs. I want to resist this conclusion and suggest that to do so would not just be unnecessary, but wrong. I intend to offer several positive reasons for pursuing principles of justified belief-influence that allow us to confidently deploy a variety of belief-influence methods in our everyday doxastic practices. There are five reasons to count in favour of actively influencing beliefs.
 
-## Morally significant beliefs generate behaviour
+## 4.2 – Morally significant beliefs generate behaviour
 
 We recognise as political communities the need to regulate behaviour and inculcate certain behaviours in the citizenry. We go to all sorts of social, legislative and punitive lengths to cultivate citizens who do not murder, pay their taxes, do not too greatly disrupt civil society and so on. If the morally significant beliefs that citizens hold are a strong determinant of their behaviour then our goals in regulating behaviour would be greatly aided by influencing beliefs to generate the preferred kinds of behaviour. We might even think this preferable and less onerous than regulation of individual behaviours if particular beliefs turn out to be the root cause of many of an individual's behaviours, as we would expect to be the case for religious individuals or those who subscribe to a particular set of moral principles that they apply to their lives to determine how they should act. This approach would also avoid the counter-intuitive situation whereby instead of trying to fix the cause of many behaviours (beliefs) we instead treat the symptoms (actions).
 
@@ -13,13 +13,13 @@ Skitka and Morgan offer positive and negative ways of interpreting these results
 
 I contend that both analyses give us strong positive reasons to actively influence beliefs. Influencing beliefs to bring others onto our side of moral disagreements, and inculcating good beliefs is a lasting and effective way of changing behaviour and guaranteeing support for causes you find valuable. Likewise, having the opportunity to influence beliefs allows us to intervene to prevent the worst behavioural consequences of morally significant beliefs. On both counts, we should prefer to have the opportunity to actively and substantially influence belief.
 
-## Beliefs are key to political conflict resolution
+## 4.3 – Beliefs are key to political conflict resolution
 
 A second, related reason for wanting license to actively influence belief points to morally significant beliefs as the cause of major political and social conflicts. Consider the ideological and religious conflict that causes massive loss of life and instability Middle East and other places, the denialism and anti-scientism that has inhibited meaningful of climate change, and domestic political struggles over the legal rights of gay couples. Looking to the future we have every reason to expect that ongoing debates on matters such as the legal rights of transgender people, new gene therapies and the changing shape of familial relationships will be grounded in belief. My purpose here is to highlight the key role that belief plays in generating conflict in our political lives, and the enormous role that belief influence play in resolving (however slowly and imperfectly) that conflict. We should want to secure this role.
 
 One might object that this observation is not a justificatory story for active belief influence. Just because it has previously worked to resolve conflict does not mean it is the right thing to do. I contend this is certainly likely to have justificatory value for consequentialists: belief influence offers attaining the kind of outcomes we want in the world. For others it may not be justifying reason, but it should offer a powerful reason to consider others offered.
 
-## Beliefs are crucial to moral calculations
+## 4.4 – Beliefs are crucial to moral calculations
 
 Beyond consequential justifications, I would argue that an individual’s moral beliefs are an appropriate subject of social regulation. I recognise that this thought is directly opposed to the intuitions about freedom of belief discussed in chapter three.
 
@@ -31,7 +31,7 @@ First, judging individuals’ beliefs is already an important part of moral prac
 
 Second, we should view others’ private possession of abhorrent beliefs as a social failing. To not want to attempt influencing abhorrent beliefs even when they don’t manifest in behaviour expresses something wrong on our part. Roughly, it indicates that we’re willing to live in a world where people can believe abhorrent things unhindered. This is reason enough, I think, to desire license to actively influence belief. Moreover, because a particular set of beliefs and capabilities to develop beliefs are inculcated in children by the state and social norms, the acquisition of abhorrent beliefs by individuals is a particularly damning social failing. To the extent that as citizens society’s failings are our own, we have a strong reason to actively pursue belief influence.
 
-## Society’s values should reflect aggregated beliefs
+## 4.5 – Society’s values should reflect aggregated beliefs
 
 We do not want, I think, to live in a society that allows for the possibility that an overwhelming majority of the populace believes something incongruent with the behaviour enforced by institutions of justice. Consider two hypothetical societies to see why this seems wrong. In the first society an overwhelming majority of citizens hold beliefs that lead them to favour considerable redistribution of wealth, but their political institutions do not reflect this and inequality abounds. This not only leads to what we might consider bad outcomes for citizens, but plausibly alienates citizens from their society  when they see the majority held belief is not represented. This creates problems for the legitimacy of the society’s political institutions if citizens, owing to their beliefs, are unlikely to endorse government policy. Of course there will always be some disconnect between the aggregate beliefs of society and the norms enforced by its institutions; they cannot map perfectly onto each other. But when this example illustrates the problems that occur when this difference becomes large.
 
@@ -39,7 +39,7 @@ In a second society the majority of citizens have racist beliefs, but these are 
 
 The view here is that aggregated individual moral commitments should be at least partly constitutive of social moral norms. Some disconnect between social values and widespread individual beliefs is okay and our institutions do and should work to regulate our worst social urges. But at some point this becomes counter-productive. We should prefer social values and individuals’ beliefs to match in an environment where doxastic influence is useful and can achieve progressive reform, rather than using progressively less legitimate political regulation to avoid the need to change beliefs in the interests of social change.
 
-## Beliefs influence is desirable
+## 4.6 – Beliefs influence is desirable
 
 A point that counts in favour of active belief influence—however obvious and simply it may be—is that many people do actively seek to have their beliefs influenced. We see this in behaviour. People go looking for evidence to affirm or change their existing beliefs and are often open to discussing their morally significant beliefs; they might try out different churches throughout their life to see different beliefs in practice, and tend to be at peace with doxastic social influence and recognise that many of their beliefs can and will change. I take it then that, by and large, we take belief influence to be a vital part of our social and emotional lives: it helps to affirm our own beliefs and develop new ones. This should count as a weak but relevant reason in favour of active belief influence.
 

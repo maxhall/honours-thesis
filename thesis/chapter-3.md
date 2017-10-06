@@ -1,5 +1,5 @@
-% Chapter 3
-% Should we avoid influencing beliefs?
+# Chapter 3
+## Should we avoid influencing beliefs?
 
 This chapter will look closely at the precise claim people might be making when they say “I have a right to my beliefs”.
 
@@ -97,7 +97,7 @@ As such, concerns about failure to develop rational capabilities are not a gener
 
 Etchemendy’s introduces what he terms the “risk-of-error” problem:
 
-“The biggest problem with non-rational influence is that it presents, at least in a wide range of cases, a greater risk of inducing error, where by “inducing error” I mean moving a person’s overall set of beliefs further out of alignment with an accurate and complete account of the world” [@etch2017, 4]
+> “The biggest problem with non-rational influence is that it presents, at least in a wide range of cases, a greater risk of inducing error, where by “inducing error” I mean moving a person’s overall set of beliefs further out of alignment with an accurate and complete account of the world” [@etch2017, 4]
 
 I want to expand Etchemendy analysis and argue that there substantial risk of error arises from belief influence strategies that do appeal to our rationality. The concern, put briefly, is that if we are broadly licensed to pursue belief-influencing strategies against others without any check on the volume or persistence of the given strategies, then individuals who are subject to belief influence will likely find the resulting rational demands extremely onerous. [Maybe need an example here.] If we are exposed to an enormous volume of attempted rational belief influence, innumerable public reasons, a glut of proffered evidence and analysis of argument and a smorgasbord of competing morally significant beliefs whose existing adherents would like to count us among their number, then it is fair to imagine one becoming overwhelmed. Put more precisely, what would occur in this circumstance is a heightened risk of two things.
 

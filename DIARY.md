@@ -60,3 +60,23 @@
 
 ## 10-02
 * Deleted a bunch of apps from my phone, logged the hell out of fb and twitter
+
+(I totally forgot I had been doing this until 1600 on the 10-06. Let's backfill.)
+
+## 10-03
+* Worked on and (I think) finished chapter 2 in Fisher till the early hours of the morn
+
+## 10-04
+* Sent chapter 2 to LR
+* Worked on scaffolding chapter 3 and started writing till about 2330 in Fisher
+
+## 10-05
+* Writing chapter 3 like a complete monster. The chapter itself was swelling like a complete monster.
+* Finished around 2130.
+* Received feedback on chapter 2
+
+## 10-06
+* Sent chapter 3 off to LR for possible feedback
+* Re-budgeted words
+* Revisited plan for chapter 4
+* Wrote chapter 4 precisely to word budget. We're learning.
