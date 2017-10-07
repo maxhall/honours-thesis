@@ -13,17 +13,19 @@
 * Chapter 4 - 2000w
 
 * Chapter 5 - 3000w
-	* Print and annotate existing scaffold
+	* Sort readings
 	* Go through previous chapters do light edits and check for commitments, 'I'll return to this' and 'this will influence legitimacy' that bear on this chapter
 	* Go through readings
+	* Go back through OLD OLD scaffold to see if the unused material fits anywhere
 	* Restructure scaffold
 	* Write
 
 * Chapter 1 - 1000w
 	* Write
 
-* General
+* Sunday
 	* Give chapters 2, 3 and 5 to SL for subbing
+	* Finish writing chapter 5
 	* Type up SL edits
 
 * Monday
@@ -31,6 +33,7 @@
 	* Make note of all special features like lists to check them later
 	* Compile one final time into a docx
 	* Fix Etchemendy's forthcoming reference in Word
+	* Make sure all straight quotes are typographers quotes
 	* Format
 	* Check special features
 	* Cover page

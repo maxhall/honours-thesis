@@ -80,3 +80,6 @@
 * Re-budgeted words
 * Revisited plan for chapter 4
 * Wrote chapter 4 precisely to word budget. We're learning.
+
+## 10-07
+* Late start (read 4pm). Starting to lose what little motivation there was.
