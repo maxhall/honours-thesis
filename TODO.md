@@ -1,14 +1,17 @@
-# TODO
+# Chapter todos
+
+* Chapter 1 - 1000w
+	* Write
 
 * Chapter 2 - 3350w
-	* Read and incorporate LR's feedback
+	* Incorporate LR's feedback
 	* There's a reference that touches on beliefs reports floating around
 	* See skitka2014, 94 for candidates for what distinguishes a MSB
 
 * Chapter 3 - 6600w
-	* Wait to see if LR gives feedback
+	* Incorporate LR feedback
 	* Get some references for the conceptions of autonomy.
-	* Cut down to make chapter 5 fit
+	* Cut to 6000w
 
 * Chapter 4 - 2000w
 
@@ -18,13 +21,18 @@
 	* Restructure scaffold
 	* Write
 
-* Chapter 1 - 1000w
-	* Write
+# Day todos
+
+* Saturday
+	* Get chapter 5 outline done
 
 * Sunday
-	* Give chapters 2, 3 and 5 to SL for subbing
+	* Think about sending chapter 4 to LR
+	* Give chapters 2, 3 and 4 to SL for subbing
 	* Finish writing chapter 5
 	* Type up SL edits
+	* Do chapter 2 TODOs, do chapter 3 Todos
+	* Send chapters 2, 3 and 4 to PH
 
 * Monday
 	* Check I consistently using "Chapter" and "section" for each infra reference. Might be better to call them section throughout? Chapter seems pretentious
