@@ -29,6 +29,7 @@
 	* Type up SL edits
 
 * Monday
+	* Check I consistently using "Chapter" and "section" for each infra reference. Might be better to call them section throughout? Chapter seems pretentious
 	* Finish edits in individual .md files
 	* Make note of all special features like lists to check them later
 	* Compile one final time into a docx
