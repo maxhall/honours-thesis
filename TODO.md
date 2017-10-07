@@ -13,8 +13,6 @@
 * Chapter 4 - 2000w
 
 * Chapter 5 - 3000w
-	* Sort readings
-	* Go through previous chapters do light edits and check for commitments, 'I'll return to this' and 'this will influence legitimacy' that bear on this chapter
 	* Go through readings
 	* Go back through OLD OLD scaffold to see if the unused material fits anywhere
 	* Restructure scaffold
