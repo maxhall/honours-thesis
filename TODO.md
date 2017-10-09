@@ -10,15 +10,17 @@
 	* SL has candidate paras to cut
 	* Cut to 6000w
 
-* Chapter 5 - 3000w
+* Chapter 4 - 2001w
+	* Incorporate LR edits
+
+* Chapter 5 - 2979
+	* CH has two points where I could cut if needs be
+	* Incorporate LR edits
+	* Rewrite intro to properly reflect content of the chapter
+	* Reference Summers' survey of the evidence in the intro
+	* Note at the beginning of each section where they will add to the broader argument
 	* Might need to note the difference between "opportunity to avoid" and "having to let up on them if they ask"
 	* Make sure you've defined non-rational influence, either here or in the chapter 3
-
-
-* Chapter 4 - 2000w
-	* Incorporate SL edits
-	* Waiting on LR feedback
-	* Can add [@tsai2014, 79] as a reference for discussion on the social benefits of rational persuasion
 
 * Chapter 1 - 1000w
 	* Write
@@ -26,6 +28,8 @@
 
 * General
 	* Check I consistently using "Chapter" and "section" for each infra reference. Might be better to call them section throughout? Chapter seems pretentious
+		* Make sure references to Section and Chapter are all capitalised
+	* Change literally every reference to the one preceding it lol fml
 	* Am I hyphenating belief-influencing strategies or is it "belief influence strategies"
 	* Whatever "principles of responsible/legitimate doxastic influence" term I used, check that it's consistent
 	* Check the range en-dashes are all consistent in the references
