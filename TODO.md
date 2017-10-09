@@ -1,26 +1,28 @@
 # Chapter todos
 
-* Chapter 5 - 3000w
-	* Might need to note the difference between "opportunity to avoid" and "having to let up on them if they ask"
-	* Make sure you've defined non-rational influence, either here or in the chapter 3
-* Chapter 2 - 3350w
-	* Incorporate LR's feedback
-	* Incorporate SL edits
+* Chapter 2 - 3189
 	* There's a reference that touches on beliefs reports floating around
 	* See skitka2014, 94 for candidates for what distinguishes a MSB
+
 * Chapter 3 - 6600w
 	* Incorporate LR feedback
 	* Incorporate SL edits
 	* Get some references for the conceptions of autonomy.
 	* Cut to 6000w
 
+* Chapter 5 - 3000w
+	* Might need to note the difference between "opportunity to avoid" and "having to let up on them if they ask"
+	* Make sure you've defined non-rational influence, either here or in the chapter 3
+
+
 * Chapter 4 - 2000w
 	* Incorporate SL edits
+	* Waiting on LR feedback
 	* Can add [@tsai2014, 79] as a reference for discussion on the social benefits of rational persuasion
 
 * Chapter 1 - 1000w
-	* Send to Honi
 	* Write
+	* Send to Honi
 
 * General
 	* Check I consistently using "Chapter" and "section" for each infra reference. Might be better to call them section throughout? Chapter seems pretentious
@@ -33,6 +35,7 @@
 	* Compile one final time into a docx
 	* Fix Etchemendy's forthcoming reference in Word
 	* Make sure all straight quotes are typographers quotes
+	* Make sure there are no single quotes
 	* Check that any ellipsis have the special character
 	* Format
 	* Check special features
