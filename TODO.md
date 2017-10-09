@@ -1,28 +1,25 @@
 # Chapter todos
 
+* Chapter 1 - 881w
+	* Send for subbing
+
 * Chapter 2 - 3189w
 
 * Chapter 3 - 6642
-	* Drop 3.9 if we need word count
-	* Remaining comment on autonomy
 	* SL has candidate paras to cut
-	* Cut to 6000w
 
 * Chapter 4 - 2066w
 
 * Chapter 5 - 2979
 	* CH has two points where I could cut if needs be
-	* Why can't you punish beliefs? re mcmyler and ostracism
-	* Am I committed to most influence of children being illegitimate?
 
-* Chapter 1 - 1000w
-	* Write
-	* Send to Honi
+14758 as at twenty to four
 
 * General
 	* Check I consistently using "Chapter" and "section" for each infra reference. Might be better to call them section throughout? Chapter seems pretentious
 		* Make sure references to Section and Chapter are all capitalised
 	* Change literally every reference to the one preceding it lol fml
+	* Get the header levels right on the combined docs chapter numbers (##) chapter titles (#), and subsections (###)
 	* Am I hyphenating belief-influencing strategies or is it "belief influence strategies"
 	* Whatever "principles of responsible/legitimate doxastic influence" term I used, check that it's consistent
 	* Check the range en-dashes are all consistent in the references
@@ -36,6 +33,8 @@
 	* Check that any ellipsis have the special character
 	* Format
 	* Check special features
+	* Contents page
+	* Thanks page
 	* Cover page
 	* Thanks page
 
