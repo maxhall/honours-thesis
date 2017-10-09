@@ -1,8 +1,6 @@
 # Chapter todos
 
-* Chapter 2 - 3189
-	* There's a reference that touches on beliefs reports floating around
-	* See skitka2014, 94 for candidates for what distinguishes a MSB
+* Chapter 2 - 3189w
 
 * Chapter 3 - 6642
 	* Drop 3.9 if we need word count
@@ -10,17 +8,12 @@
 	* SL has candidate paras to cut
 	* Cut to 6000w
 
-* Chapter 4 - 2001w
-	* Incorporate LR edits
+* Chapter 4 - 2066w
 
 * Chapter 5 - 2979
 	* CH has two points where I could cut if needs be
-	* Incorporate LR edits
-	* Rewrite intro to properly reflect content of the chapter
-	* Reference Summers' survey of the evidence in the intro
-	* Note at the beginning of each section where they will add to the broader argument
-	* Might need to note the difference between "opportunity to avoid" and "having to let up on them if they ask"
-	* Make sure you've defined non-rational influence, either here or in the chapter 3
+	* Why can't you punish beliefs? re mcmyler and ostracism
+	* Am I committed to most influence of children being illegitimate?
 
 * Chapter 1 - 1000w
 	* Write
