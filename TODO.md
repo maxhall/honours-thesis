@@ -1,7 +1,7 @@
 # Chapter todos
 
 * Chapter 1 - 881w
-	* Send for subbing
+	* Incorporate MW subs
 
 * Chapter 2 - 3189w
 
@@ -13,15 +13,7 @@
 * Chapter 5 - 2979
 	* CH has two points where I could cut if needs be
 
-14758 as at twenty to four
-
 * General
-	* Check I consistently using "Chapter" and "section" for each infra reference. Might be better to call them section throughout? Chapter seems pretentious
-		* Make sure references to Section and Chapter are all capitalised
-	* Change literally every reference to the one preceding it lol fml
-	* Get the header levels right on the combined docs chapter numbers (##) chapter titles (#), and subsections (###)
-	* Am I hyphenating belief-influencing strategies or is it "belief influence strategies"
-	* Whatever "principles of responsible/legitimate doxastic influence" term I used, check that it's consistent
 	* Check the range en-dashes are all consistent in the references
 	* Finish edits in individual .md files
 	* Get journal numbers for ethical theory and moral practice
