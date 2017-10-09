@@ -1,7 +1,6 @@
 # Chapter todos
 
 * Chapter 1 - 881w
-	* Incorporate MW subs
 
 * Chapter 2 - 3189w
 
@@ -14,9 +13,6 @@
 	* CH has two points where I could cut if needs be
 
 * General
-	* Check the range en-dashes are all consistent in the references
-	* Finish edits in individual .md files
-	* Get journal numbers for ethical theory and moral practice
 	* Make note of all special features like lists to check them later
 	* Compile one final time into a docx
 	* Fix Etchemendy's forthcoming reference in Word
