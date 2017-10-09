@@ -4,10 +4,10 @@
 	* There's a reference that touches on beliefs reports floating around
 	* See skitka2014, 94 for candidates for what distinguishes a MSB
 
-* Chapter 3 - 6600w
-	* Incorporate LR feedback
-	* Incorporate SL edits
-	* Get some references for the conceptions of autonomy.
+* Chapter 3 - 6642
+	* Drop 3.9 if we need word count
+	* Remaining comment on autonomy
+	* SL has candidate paras to cut
 	* Cut to 6000w
 
 * Chapter 5 - 3000w
